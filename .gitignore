@@ -1,0 +1,11 @@
+*#*
+*.exe
+*.iml
+*~
+.DS*
+.ant.properties
+.cache
+.classpath
+.idea
+.project
+out
